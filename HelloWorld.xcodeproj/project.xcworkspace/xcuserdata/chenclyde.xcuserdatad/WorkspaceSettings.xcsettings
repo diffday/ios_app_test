@@ -12,5 +12,9 @@
 	<string>ShowActiveSchemeOnly</string>
 	<key>LiveSourceIssuesEnabled</key>
 	<true/>
+	<key>SnapshotAutomaticallyBeforeSignificantChanges</key>
+	<true/>
+	<key>SnapshotLocationStyle</key>
+	<string>Default</string>
 </dict>
 </plist>
